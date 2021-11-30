@@ -34,3 +34,23 @@ La parte que se maneja la iluminación del cubo, se expresa  mediante las matric
 ![WhatsApp Image 2021-11-26 at 8 35 11 PM (1)](https://user-images.githubusercontent.com/71719625/143667845-55c30545-9553-4005-99a3-773cc6b3e6e9.jpeg)
 
 
+
+______________________________________________________________________________________________________________________________________________________________________________-
+
+
+
+se podra apreciar como fueron los resultados optenidos con el software de blender
+
+1-. para sombrado es solo crear cubo a propiedades de material en pre elegimos cubo, en superficie usamos nodos después escogemos color base y en metálico seleccionamos 1 
+
+![Captura de pantalla (962)](https://user-images.githubusercontent.com/71719625/143985932-d716a6da-b01f-4521-8362-19d74096e4b6.png)
+
+2-. Degradado para degradado solo utilizamos la función vías 3D pintar vértices después escogemos color y al final pintamos cada vértice 
+
+![ultima](https://user-images.githubusercontent.com/71719625/143987607-c128b0fd-4c54-4dac-8d7a-7bef5d534275.jpeg)
+
+3-. Relleno para el relleno nos dirigimos crear cubo a propiedades de material en pre elegimos cubo, hacemos creación de nodos dándole al botón de + para crear un nuevo nodo, cambiando el nombre,  después nos dirigimos a editor de sombrado eliminas BSDF principias en los 3 nodos nuevos, después agregamos textura y seleccionamos imagen colocamos el cuadro y dirigimos parte de color con superficie y seleccionamos abrir imagen, después nos dirigimos a prioridades para pre visualizar, después nos dirigimos a edición y seleccionamos en seleccionar caras seleccionamos propiedades y aparecerán los nodos nuevos y asignamos a cada cara .
+
+Después nos vamos a UV edite para poder asignar toda la textura a las caras del cubo al igual rotaremos para que la textura este en el lugar correspondiente. 
+
+![Captura de pantalla (964)](https://user-images.githubusercontent.com/71719625/143986861-ca3d422e-9f17-4182-9aae-8430e2582191.png)
